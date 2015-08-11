@@ -2,6 +2,5 @@
 
 int main() {
 	using std;
-	std::cout << "ayy" << std:endl;
-	std::cout << "lmao";
+	std::std::cout << "FINAL" << std::endl;
 }
